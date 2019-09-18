@@ -36,7 +36,7 @@
 export default {
   i18n: {
     'zh-CN': {
-      button1: '弹出 Actionsheet',
+      button1: 'AAA弹出 Actionsheet',
       button2: '弹出带取消按钮的 Actionsheet',
       button3: '弹出带标题的 Actionsheet',
       title2: '带取消按钮的 Actionsheet',
